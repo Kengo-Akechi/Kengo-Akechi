@@ -29,8 +29,8 @@ Here are some of my notable projects:
    - Team : Aarushi Pandey, Ananya Majumdar, Jiya 
    - Technologies used: Python, Scikit Learn, pandas, numpy, matplotlib, seaborn, Jupyter Notebook
 
-2. [Project 2](https://github.com/Kengo-Akechi/Survey-Form-Project) - During the period of my internship, I participated in the DAY NULM team by actively engaging in research, design,
- and fieldwork activities related to website design and app development.
+2. [Project 2](https://github.com/Kengo-Akechi/Survey-Form-Project) - This project demonstrates my proficiency
+ in front-end web development, showcasing a clean and responsive form that collects user data effectively..
    - Technologies used: HTML, CSS
 <!--
 ## 📚 Latest Blog Posts
