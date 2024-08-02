@@ -1,8 +1,4 @@
 # Hello, I'm Aarushi Pandey 👋
-
-<!--[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)-->
-
 Welcome to my GitHub profile! I'm an IT undergrad passionate about programming. Here you'll find a collection of my projects, contributions, and more.
 
 
@@ -25,13 +21,12 @@ Welcome to my GitHub profile! I'm an IT undergrad passionate about programming. 
 
 Here are some of my notable projects:
 
-1. [Project 1](https://github.com/Kengo-Akechi/Main) - A machine learning model to predict YouTube video view counts
-   - Team : Aarushi Pandey, Ananya Majumdar, Jiya 
-   - Technologies used: Python, Scikit Learn, pandas, numpy, matplotlib, seaborn, Jupyter Notebook
+1. [Automated Security Tool](https://github.com/Kengo-Akechi/Auto-Security-Audit-Tool)
+   - Technologies used: Python
 
-2. [Project 2](https://github.com/Kengo-Akechi/Survey-Form-Project) - This project demonstrates my proficiency
- in front-end web development, showcasing a clean and responsive form that collects user data effectively..
-   - Technologies used: HTML, CSS
+2. [Carbon Footprint Predictor](https://github.com/Kengo-Akechi/Carbon-Footprint-Prediction)
+   - Technologies used: Python, Jupyter Notebook, Sklearn
+
 <!--
 ## 📚 Latest Blog Posts
 
@@ -46,10 +41,9 @@ Here are some of my notable projects:
 I'm always eager to learn new things. Currently, I'm focusing on:
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-- [C++](https://www.cplusplus.com/doc/tutorial/)   
-- [Data Structures and Algorithms](https://www.geeksforgeeks.org/data-structures/)
+- Cybersecurity
 - [DBMS](https://www.geeksforgeeks.org/dbms-introduction-of-2-tier-architecture/)
-- [AWS]()
+- AI , machine learning
 
 ## 🤝 Let's Connect
 
