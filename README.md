@@ -3,7 +3,7 @@
 <!--[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
 [![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)-->
 
-Welcome to my GitHub profile! I'm a Btech sophomore passionate about programming. Here you'll find a collection of my projects, contributions, and more.
+Welcome to my GitHub profile! I'm an IT undergrad passionate about programming. Here you'll find a collection of my projects, contributions, and more.
 
 
 ## 📫 Contact Me
