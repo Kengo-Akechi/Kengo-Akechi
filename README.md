@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Aarushi Pandey! 👩‍💻
+# 👋 Hello, I'm Aarushi Pandey! 
 
 Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast currently pursuing a Bachelor of Technology in Information Technology from Indira Gandhi Delhi Technical University for Women.
 
@@ -8,11 +8,11 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast cur
   <img src="Pretty.jpeg" alt="GitHub Profile Banner" align="right" width="25%"  style="margin-right: 10px;" />
 </p>
 
-- 🎓 **Education**: IT Undergrad, [IGDTUW](https://www.igdtuw.ac.in/)
-- 🌐 **Languages**: Python, C++
-- 🔧 **Tools**: Git, GitHub, VS Code, Replit
-- 💻 **Interests**: AI, Cybersecurity, Quantum Computing
-- 🚀 **Current Projects**: Streamlit Sentiment Analysis Web App
+🎓 **Education**: IT Undergrad, [IGDTUW](https://www.igdtuw.ac.in/)  
+🌐 **Languages**: Python, C++  
+🔧 **Tools**: Git, GitHub, VS Code, Replit  
+💻 **Interests**: AI, Cybersecurity, Quantum Computing  
+🚀 **Current Projects**: Streamlit Sentiment Analysis Web App
 <br>
 
 ## 🚀 Projects
@@ -33,9 +33,6 @@ I'm always eager to learn new things. Currently, I'm focusing on:
 - Cybersecurity
 - Javascript
 - Machine Learning
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kengo-Akechi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kengo-Akechi&layout=compact&theme=radical)
 
 ## 💬 Connect with Me
 
