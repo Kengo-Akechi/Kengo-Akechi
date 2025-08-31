@@ -4,10 +4,6 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast cur
 
 ## 🌟 About Me
 
-<p align="right">
-  <img src="Pretty.jpeg" alt="GitHub Profile Banner" align="right" width="25%"  style="margin-right: 10px;" />
-</p>
-
 🎓 **Education**: IT Undergrad, [IGDTUW](https://www.igdtuw.ac.in/)  
 🌐 **Languages**: Python, C++  
 🔧 **Tools**: Git, GitHub, VS Code, Replit  
